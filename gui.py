@@ -158,8 +158,8 @@ class NLPApp:
     # Create and configure the outer frame
         screen_width = self.root.winfo_screenwidth()
         screen_height = self.root.winfo_screenheight()
-        frame_width = int(screen_width * 0.8)  # 60% of screen width
-        frame_height = int(screen_height * 0.8)  # 60% of screen height
+        frame_width = int(screen_width * 0.8)  # 80% of screen width
+        frame_height = int(screen_height * 0.8)  # 80% of screen height
 
         frame = Frame(self.root, bg='#2F2F2F', width=frame_width, height=frame_height, padx=20, pady=20)
         frame.place(relx=0.5, rely=0.5, anchor=CENTER)
