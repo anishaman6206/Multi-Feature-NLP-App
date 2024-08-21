@@ -1,6 +1,5 @@
 #  OOP-Driven Multi-Feature NLP Application with Comprehensive GUI & API Integration
 
-
 ## Overview
 
 This project is a comprehensive Natural Language Processing (NLP) application developed using Object-Oriented Programming (OOP) principles. It features a sophisticated graphical user interface (GUI) for various NLP tasks including Sentiment Analysis, Language Detection, Emotion Prediction, and English-to-Hindi Translation. The application integrates with the Hugging Face API for real-time NLP model inference and utilizes a JSON-based database for user management.
@@ -27,8 +26,8 @@ This project is a comprehensive Natural Language Processing (NLP) application de
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/nlp-app.git
-   cd nlp-app
+   git clone https://github.com/anishaman6206/Multi-Feature-NLP-App.git
+   cd Multi-Feature-NLP-App
    ```
 
 2. **Install dependencies**:
